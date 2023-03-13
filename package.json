@@ -1,0 +1,16 @@
+{
+  "name": "supadebug",
+  "version": "1.0.0",
+  "description": "A way to debug superly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^3.2.1",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
